@@ -12,6 +12,7 @@ O código é organizado em **classes**, com funções específicas para cada tip
 
 O programa oferece as seguintes opções no menu:
 
+*0. Sair*
 1. Decimal → Binário
 2. Binário → Decimal
 3. Decimal → Octal
@@ -23,7 +24,6 @@ O programa oferece as seguintes opções no menu:
 9. Decimal Fracionário → Binário Fracionário
 10. IPv4 → Binário
 11. Binário → IPv4
-0. Sair
 
 ---
 
@@ -193,8 +193,8 @@ O programa exibirá o menu interativo com as opções de conversão.
 
 ## Autor
 
-**Felipe Eduardo e Pedro Castro**
-Outubro de 2025
+**Felipe Eduardo e Pedro Castro**  
+Outubro de 2025  
 Projeto de prática em C++ — Conversões de Bases Numéricas
 
 ---
